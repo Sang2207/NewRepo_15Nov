@@ -1,5 +1,5 @@
 // Sample.java by F. M. Carrano
-// Displays strings and provides an example of a Java application.
+// Displays strings and provides an example of a Java application..
 public class Sample
 {
    public static void main(String[] args)
